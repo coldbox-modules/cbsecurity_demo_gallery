@@ -1,0 +1,11 @@
+{
+    "app":{
+        "cfengine":"lucee@5",
+        "libDirs":"lib/"
+    },
+    "web":{
+        "rewrites":{
+            "enable":true
+        }
+    }
+}
